@@ -1,6 +1,2 @@
 /*  your css code here. If applicable */
-
-.run{display:inline; 
-	 margin-right:1rem;
-	 padding:10px;
-	}
+.run{display:inline-block; margin-right:1rem; padding:10px;}
